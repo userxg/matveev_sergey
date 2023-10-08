@@ -1,1 +1,3 @@
 smfile means second file in master
+str2
+
