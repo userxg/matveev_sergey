@@ -1,3 +1,3 @@
-smfile means second file in master
-str2
+smfile means second file on master
+new line on master
 
