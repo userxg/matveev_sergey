@@ -1,3 +1,2 @@
 smfile means second file on master
-new line on master
-
+str on b1
